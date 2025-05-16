@@ -30,7 +30,7 @@
               libxkbcommon
               pixman
               libGL # egl
-              mesa # gbm
+              libgbm # gbm
               wayland # wayland-server
               wayland-protocols
               wlroots_0_18
